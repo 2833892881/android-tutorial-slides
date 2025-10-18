@@ -180,7 +180,7 @@ importers:
         specifier: ^3.5.18
         version: 3.5.20(typescript@5.8.3)
 
-  slides/lesson-08-android-fragment:
+  slides/lesson-08-user-interaction-component:
     dependencies:
       '@slidev/cli':
         specifier: ^52.1.0
